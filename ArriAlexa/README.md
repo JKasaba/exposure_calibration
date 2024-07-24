@@ -2,7 +2,7 @@
 
 The exposure calibration factor is calculated based on the following equation:
 
-\[ A = 0.18 \times L \times t \times \left(\frac{S}{N^2 \times K}\right) \]
+`A = 0.18 * L * t * (S / (N^2 * K))`
 
 where:
 - **L** is the measured luminance in cd/m²
